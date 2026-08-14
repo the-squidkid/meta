@@ -6,7 +6,7 @@ This is my episode-by-episode breakdown of the science and the technobabble in t
 </p>
 
 <p>
-I have also written the meta on Latex, which gave the following <a target="_blank" href="https://the-squidkid.github.io/meta/RNM_Science_Meta.pdf">PDF</a> (which you can also find at <a target="_blank" href="https://the-squidkid.github.io/meta/RNM_Science_Meta.pdf">the-squidkid.github.io/meta/RNM_Science_Meta.pdf</a>. 
+I have also written the meta on Latex, which gave the following <a target="_blank" href="https://the-squidkid.github.io/meta/RNM_Science_Meta.pdf">PDF</a>. You can also find it at <a target="_blank" href="https://the-squidkid.github.io/meta/RNM_Science_Meta.pdf">the-squidkid.github.io/meta/RNM_Science_Meta.pdf</a>. 
 </p>
 
 <p>
